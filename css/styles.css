@@ -13,3 +13,11 @@ a, a:hover {
 hr {
     border-top: 5px dotted black;
 }
+
+.reserve {
+    margin: 2rem;
+}
+
+.my-btn {
+    margin: 2rem;
+}
